@@ -1,0 +1,16 @@
+﻿body {
+  background: url(bkg.jpg) no-repeat center 0;
+  overflow: hidden;
+  background-size: cover;
+}
+
+.danmako_screen .s_dm .s_show div {
+    line-height: 36px;
+    font-size: 72px;
+    font-weight: bold;
+    position: absolute;
+    white-space:nowrap;
+    font-family: cursive;
+    font-family: "Microsoft YaHei", 微软雅黑, "MicrosoftJhengHei", 华文细黑, STHeiti, MingLiu;
+}
+

@@ -1,7 +1,9 @@
 # wall
 微信弹幕墙
 
-关注微信公众平台，发送的文字消息都可以以“弹幕”的形式在墙上飘过~~~
+关注微信公众平台"弹幕时代"，发送的文字消息都可以以“弹幕”的形式在[墙上](http://danmako.sinaapp.com/special/sogou/)飘过~~~
+
+
 
 ![](http://ww1.sinaimg.cn/large/9732f922jw1f055do972ij211y0lctkv.jpg)
 

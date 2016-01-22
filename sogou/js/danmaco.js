@@ -16,8 +16,8 @@ function refresh_screen() {
     var _height = $(window).height();
 
     var _top = Math.random() * (_height);
-    if (_top > _height - 30) {
-        _top += 30;
+    if (_top > _height - 65) {
+        _top += 65;
     }
 
     var time = Math.random() * 20000 + 10000;
